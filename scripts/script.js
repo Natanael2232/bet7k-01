@@ -11,7 +11,7 @@ var minesLink = "https://go.aff.7k-partners.com/j5lzn4vd"
 var aviatorLink = "https://go.aff.7k-partners.com/21ecf1zk"
 var tigerLink = "https://go.aff.7k-partners.com/xkrepqjv"
 var roletaLink = "https://go.aff.7k-partners.com/32n468c9"
-var spacemanLink = "https://go.aff.7k-partners.com/tkpje8rj"
+var spacemanLink = "https://go.aff.7k-partners.com/kjp6ukt5"
 var penaltyLink = "https://go.aff.7k-partners.com/tkpje8rj"
 
 const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
