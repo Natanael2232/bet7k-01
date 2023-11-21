@@ -17,7 +17,7 @@ var penaltyLink = "https://playsecure.bacanaplay.com/playsecure/Games/Search/Pen
 const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
   {
     game: "Fortune",
-    pro: true, // Se quiser que o jgoo seja pro deixe assim = true
+    pro: false, // Se quiser que o jgoo seja pro deixe assim = true
     id: "1",
   },
   {
@@ -27,7 +27,7 @@ const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
   },
   {
     game: "Mines",
-    pro: false,
+    pro: true,
     id: "3",
   },
   
@@ -43,7 +43,7 @@ const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
   },
   {
     game: "Penalty",
-    pro: false,
+    pro: true,
     id: "6",
   },
 ]
