@@ -7,12 +7,12 @@ var mainMsg = "Garanta seu bônus, registre-se deposite no minimo R$50 e receba 
 var mainBtnMsg = "Garantir BÔNUS" // Alterar mensagem do botão principal 
 
 //JOGOS
-var minesLink = "https://www.playpix.com/en/casino/slots/-1?provider=SPB&openGames=806668-real&gameNames=Mines"
-var aviatorLink = "https://playsecure.bacanaplay.com/playsecure/Games/Search/Aviator"
-var tigerLink = "https://www.playpix.com/en/casino/slots/-1?openGames=3001114-real&gameNames=Fortune%20Tiger"
-var roletaLink = "https://www.playpix.com/en/?openGames=110-real&gameNames=Roulette"
-var spacemanLink = "https://playsecure.bacanaplay.com/playsecure/Games/Search/Spaceman"
-var penaltyLink = "https://playsecure.bacanaplay.com/playsecure/Games/Search/Penalty"
+var minesLink = "https://go.aff.7k-partners.com/j5lzn4vd"
+var aviatorLink = "https://go.aff.7k-partners.com/21ecf1zk"
+var tigerLink = "https://go.aff.7k-partners.com/xkrepqjv"
+var roletaLink = "https://go.aff.7k-partners.com/32n468c9"
+var spacemanLink = "https://go.aff.7k-partners.com/tkpje8rj"
+var penaltyLink = "https://go.aff.7k-partners.com/tkpje8rj"
 
 const games = [ // SO MEXER NO PRO, NÃO EMXA NO RESTO
   {
